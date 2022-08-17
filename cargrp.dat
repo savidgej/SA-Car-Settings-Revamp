@@ -1,0 +1,108 @@
+# CARGRP.DAT
+#
+# For each type of ped we maintain a list of the cars they might drive.
+# Single group can contain only 24 car names.
+#
+	  
+
+linerun, petro, packer, mule, bus, coach, rumpo, pony, flatbed, yankee, cement, utility, burrito, boxville, boxburg, benson, topfun, dft30, taxi, cabbie, towtruck, trash
+# POPCYCLE_GROUP_WORKERS
+
+taxi, cabbie, bus, premier, securica, elegant, fortune, feltzer, washing, merit, huntley, admiral, emperor, sentinel, stafford
+# POPCYCLE_GROUP_BUSINESS
+
+elegy, flash, jester, stratum, sultan, uranus, alpha, banshee, bullet, cheetah, comet, euros, infernus, supergt, turismo, zr350
+# POPCYCLE_GROUP_CLUBBERS
+
+sanchez, walton, tampa, bobcat, sadler, rancher, camper, pony, journey, benson, tractor, wayfarer, freeway, rnchlure, linerun, petro, rdtrain
+# POPCYCLE_GROUP_FARMERS
+
+taxi, cabbie, bfinject, faggio, glendale, oceanic, tornado, mesa, bmx, mtbike, mrwhoop, remingtn, club, manana, cadrona, sunrise, yosemite, bravura, primo, quad, sanchez, pcj600
+# POPCYCLE_GROUP_BEACHFOLK
+
+taxi, cabbie, bfinject, faggio, glendale, mesa, bmx, mtbike, washing, club, previon, cadrona, yosemite, bravura, primo, pcj600
+# POPCYCLE_GROUP_PARKFOLK
+
+stretch, buffalo, elegant, premier, infernus, cheetah, banshee, zr350, comet, supergt, fcr900, windsor, jester, elegy, broadway, stafford, huntley, taxi, cabbie, alpha, newsvan, euros, phoenix, emperor
+# POPCYCLE_GROUP_CASUAL_RICH
+
+taxi, cabbie, bus, premier, elegant, fortune, primo, landstal, mule, washing, previon, admiral, solair, pcj600, blistac, nebula, cadrona, vincent, sunrise, yosemite, bf400, emperor, yankee, sentinel
+# POPCYCLE_GROUP_CASUAL_AVERAGE
+
+esperant, bobcat, peren, regina, virgo, greenwoo, willard, clover, intruder, bike, bravura, hermes, camper, stallion, tahoma, picador, bmx, moonbeam, slamvan, utility, pony, benson, towtruck, trash
+# POPCYCLE_GROUP_CASUAL_POOR  
+
+peren
+# POPCYCLE_GROUP_PROSTITUTES
+
+tahoma, sabre, stallion, clover, buffalo, majestic, rancher, primo
+# POPCYCLE_GROUP_CRIMINALS
+
+caddy
+# POPCYCLE_GROUP_GOLFERS
+
+stretch, broadway, bobcat, pizzaboy
+# POPCYCLE_GROUP_SERVANTS
+
+bravura, washing, previon, admiral, solair, pcj600, blistac, nebula, cadrona, vincent, sunrise, yosemite, uranus, stratum, bf400, emperor, wayfarer
+# POPCYCLE_GROUP_AIRCREW
+
+phoenix, sabre, buffalo, hustler
+# POPCYCLE_GROUP_ENTERTAINERS
+
+mule, rumpo, pony, flatbed, linerun, petro, rdtrain, dft30, packer, yankee, coach, cement, burrito, boxville, boxburg, benson, utility, topfun
+# POPCYCLE_GROUP_OUT_OF_TOWN_FACTORY
+
+sanchez, walton, tampa, rancher, wayfarer, freeway, rnchlure, benson, linerun, petro, rdtrain
+# POPCYCLE_GROUP_DESERT_FOLK
+
+baggage, tug, forklift
+# POPCYCLE_GROUP_AIRCREW_RUNWAY
+
+majestic, tahoma, voodoo
+# POPCYCLE_GROUP_BALLAS
+
+greenwoo, savanna, bmx
+# POPCYCLE_GROUP_GROVE
+
+oceanic, tornado, hermes
+# POPCYCLE_GROUP_VAGOS
+
+sabre, stallion, blade
+# POPCYCLE_GROUP_RIFA
+
+buccanee, manana, tampa
+# POPCYCLE_GROUP_DA_NANG
+
+sentinel, admiral, feltzer
+# POPCYCLE_GROUP_ITALIAN_MAFIA
+
+sultan, stratum, elegy
+# POPCYCLE_GROUP_TRIADS
+
+hermes, broadway, remingtn
+# POPCYCLE_GROUP_VLA
+
+vincent, landstal, stafford
+# POPCYCLE_GROUP_RUSSIAN_MAFIA
+
+freeway, wayfarer
+# POPCYCLE_GROUP_BIKERS
+
+rancher, rnchlure
+# POPCYCLE_GROUP_DEALERS
+
+squalo, speeder, reefer, tropic, coastg, dinghy, marquis, jetmax
+# POPCYCLE_GROUP_BOATS
+
+clover, peren, manana, moonbeam, previon, rumpo, glendale, oceanic, hermes, virgo, greenwoo, buccanee, willard, remingtn, hustler, intruder, broadway, tornado, primo, tampa, tahoma, savanna
+# CHEAT: EVERYONEISPOOR
+
+buffalo, infernus, cheetah, banshee, hotknife, turismo, zr350, comet, supergt, bullet, uranus, jester, sultan, elegy, flash, euros, club, phoenix
+# CHEAT: EVERYONEISRICH
+
+pcj600, fcr900, bf400
+# CHEAT: NINJATOWN
+
+hotknife, tug, mrwhoop, pizzaboy, hotdog, bfinject, caddy, quad, bandito, kart, mower, rccam
+# CHEAT: CRAZYTOWN
