@@ -1,35 +1,35 @@
 # CARGRP.DAT
-#
-# For each type of ped we maintain a list of the cars they might drive.
-# Single group can contain only 24 car names.
-#
-	  
 
-linerun, petro, packer, mule, bus, coach, rumpo, pony, flatbed, yankee, cement, utility, burrito, boxville, boxburg, benson, topfun, dft30, taxi, cabbie, towtruck, trash
+# For each type of ped we maintain a list of the cars they might drive.
+# Single group is limited to 24 car names.
+
+
+
+rumpo, pony, mule, utility, linerun, yankee, benson, petro, bus, coach, flatbed, cement, burrito, boxville, boxburg, topfun, dft30, taxi, cabbie, towtruck, packer, trash
 # POPCYCLE_GROUP_WORKERS
 
-taxi, cabbie, bus, premier, securica, elegant, fortune, feltzer, washing, merit, huntley, admiral, emperor, sentinel, stafford
+taxi, cabbie, bus, premier, elegant, fortune, feltzer, washing, merit, huntley, admiral, emperor, sentinel, securica, stafford
 # POPCYCLE_GROUP_BUSINESS
 
-elegy, flash, jester, stratum, sultan, uranus, alpha, banshee, bullet, cheetah, comet, euros, infernus, supergt, turismo, zr350
+sultan, alpha, comet, elegy, flash, jester, stratum, banshee, uranus, bullet, zr350, cheetah, euros, infernus, supergt, turismo
 # POPCYCLE_GROUP_CLUBBERS
 
-sanchez, walton, tampa, bobcat, sadler, rancher, camper, pony, journey, benson, tractor, wayfarer, freeway, rnchlure, linerun, petro, rdtrain
+walton, tampa, bobcat, sadler, rancher, camper, pony, sanchez, journey, benson, tractor, wayfarer, freeway, rnchlure, linerun, petro, rdtrain
 # POPCYCLE_GROUP_FARMERS
 
-taxi, cabbie, bfinject, faggio, glendale, oceanic, tornado, mesa, bmx, mtbike, mrwhoop, remingtn, club, manana, cadrona, sunrise, yosemite, bravura, primo, quad, sanchez, pcj600
+taxi, cabbie, remingtn, club, manana, faggio, pcj600, glendale, oceanic, tornado, mesa, bmx, mtbike, mrwhoop, bfinject, cadrona, sunrise, yosemite, bravura, primo, quad, sanchez
 # POPCYCLE_GROUP_BEACHFOLK
 
-taxi, cabbie, bfinject, faggio, glendale, mesa, bmx, mtbike, washing, club, previon, cadrona, yosemite, bravura, primo, pcj600
+taxi, cabbie, bfinject, faggio, pcj600, glendale, mesa, bmx, mtbike, washing, club, previon, cadrona, yosemite, bravura, primo
 # POPCYCLE_GROUP_PARKFOLK
 
-stretch, buffalo, elegant, premier, infernus, cheetah, banshee, zr350, comet, supergt, fcr900, windsor, jester, elegy, broadway, stafford, huntley, taxi, cabbie, alpha, newsvan, euros, phoenix, emperor
+buffalo, elegant, premier, emperor, alpha, huntley, infernus, cheetah, banshee, comet, phoenix, supergt, fcr900, zr350, jester, elegy, broadway, stafford, windsor, stretch, taxi, cabbie, euros, newsvan
 # POPCYCLE_GROUP_CASUAL_RICH
 
 taxi, cabbie, bus, premier, elegant, fortune, primo, landstal, mule, washing, previon, admiral, solair, pcj600, blistac, nebula, cadrona, vincent, sunrise, yosemite, bf400, emperor, yankee, sentinel
 # POPCYCLE_GROUP_CASUAL_AVERAGE
 
-esperant, bobcat, peren, regina, virgo, greenwoo, willard, clover, intruder, bike, bravura, hermes, camper, stallion, tahoma, picador, bmx, moonbeam, slamvan, utility, pony, benson, towtruck, trash
+bravura, bobcat, peren, regina, virgo, greenwoo, willard, clover, intruder, esperant, bike, camper, stallion, tahoma, picador, bmx, moonbeam, slamvan, utility, pony, benson, hermes, towtruck, trash
 # POPCYCLE_GROUP_CASUAL_POOR  
 
 peren
@@ -47,10 +47,10 @@ stretch, broadway, bobcat, pizzaboy
 bravura, washing, previon, admiral, solair, pcj600, blistac, nebula, cadrona, vincent, sunrise, yosemite, uranus, stratum, bf400, emperor, wayfarer
 # POPCYCLE_GROUP_AIRCREW
 
-phoenix, sabre, buffalo, hustler
+tornado, buffalo, phoenix, sabre, hustler, hotknife
 # POPCYCLE_GROUP_ENTERTAINERS
 
-mule, rumpo, pony, flatbed, linerun, petro, rdtrain, dft30, packer, yankee, coach, cement, burrito, boxville, boxburg, benson, utility, topfun
+mule, rumpo, pony, flatbed, linerun, petro, rdtrain, dft30, yankee, coach, cement, burrito, boxville, boxburg, benson, utility, topfun, packer
 # POPCYCLE_GROUP_OUT_OF_TOWN_FACTORY
 
 sanchez, walton, tampa, rancher, wayfarer, freeway, rnchlure, benson, linerun, petro, rdtrain
