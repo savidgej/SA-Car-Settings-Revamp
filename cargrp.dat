@@ -14,7 +14,7 @@ taxi, cabbie, bus, premier, elegant, fortune, feltzer, washing, merit, huntley, 
 sultan, alpha, comet, elegy, flash, jester, stratum, banshee, uranus, bullet, zr350, cheetah, euros, infernus, supergt, turismo
 # POPCYCLE_GROUP_CLUBBERS
 
-walton, tampa, bobcat, sadler, rancher, camper, pony, sanchez, journey, benson, tractor, wayfarer, freeway, rnchlure, linerun, petro, rdtrain
+walton, tampa, bobcat, sadler, rancher, camper, pony, sanchez, journey, benson, tractor, wayfarer, freeway, linerun, petro, rdtrain
 # POPCYCLE_GROUP_FARMERS
 
 taxi, cabbie, remingtn, club, manana, faggio, pcj600, glendale, oceanic, tornado, mesa, bmx, mtbike, mrwhoop, bfinject, cadrona, sunrise, yosemite, bravura, primo, quad, sanchez
@@ -47,13 +47,13 @@ stretch, broadway, bobcat, pizzaboy
 bravura, washing, previon, admiral, solair, pcj600, blistac, nebula, cadrona, vincent, sunrise, yosemite, uranus, stratum, bf400, emperor, wayfarer
 # POPCYCLE_GROUP_AIRCREW
 
-tornado, buffalo, phoenix, sabre, hustler, hotknife
+tornado, picador, stallion, buffalo, phoenix, sabre, hustler, hotknife
 # POPCYCLE_GROUP_ENTERTAINERS
 
 mule, rumpo, pony, flatbed, linerun, petro, rdtrain, dft30, yankee, coach, cement, burrito, boxville, boxburg, benson, utility, topfun, packer
 # POPCYCLE_GROUP_OUT_OF_TOWN_FACTORY
 
-sanchez, walton, tampa, rancher, wayfarer, freeway, rnchlure, benson, linerun, petro, rdtrain
+sanchez, walton, tampa, rancher, wayfarer, freeway, benson, linerun, petro, rdtrain
 # POPCYCLE_GROUP_DESERT_FOLK
 
 baggage, tug, forklift
@@ -89,7 +89,7 @@ vincent, landstal, stafford
 freeway, wayfarer
 # POPCYCLE_GROUP_BIKERS
 
-rancher, rnchlure
+rnchlure
 # POPCYCLE_GROUP_DEALERS
 
 squalo, speeder, reefer, tropic, coastg, dinghy, marquis, jetmax

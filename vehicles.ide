@@ -109,7 +109,7 @@ cars
 502,	hotrina, 	hotrina, 	car, 		HOTRING, 		HOTRINA, 		null,			ignore, 		1,		0,			4fff, 		-1, 		0.82,  		0.82,  		-1
 503,	hotrinb, 	hotrinb, 	car, 		HOTRING, 		HOTRINB, 		null,			ignore, 		1,		0,			4fff, 		-1, 		0.82,  		0.82,  		-1
 504,	bloodra, 	bloodra, 	car, 		BLOODRA, 		BLOODRA, 		BF_injection,	ignore,			1, 		0,			4fff, 		-1,   		0.7,   		0.7,   		-1
-505,	rnchlure, 	rnchlure, 	car,		RANCHER, 		RNCHLUR, 		null,			normal,			8,		0,			0, 			-1, 		0.9,   		0.9,   		-1
+505,	rnchlure, 	rnchlure, 	car,		RANCHER, 		RANCHER, 		null,			normal,			8,		0,			0, 			-1, 		0.9,   		0.9,   		-1
 506,	supergt, 	supergt, 	car, 		SUPERGT, 		SUPERGT, 		null,			executive, 		8, 		0,			0,			-1, 		0.73, 		0.73,		0
 507,	elegant, 	elegant, 	car, 		ELEGANT, 		ELEGANT, 		null,			normal,			10, 	0,			0, 			-1, 		0.7,   		0.7,		0
 508,	journey, 	journey, 	car, 		JOURNEY,		JOURNEY, 		null,			worker, 		5, 		0,			0, 			-1, 		0.8,   		0.8,   		-1

@@ -3,15 +3,11 @@
 BARRCKS Barracks OL
 BAGGAGE Baggage Handler
 MESAA Mesa Grande
-STUNT Mallard
-SECURI Stockade
-RNCHLUR Rancher
-POLLS LSPD Premier
-POLSF SFPD Premier
-POLLV LVPD Brigham
-POLCS County Rancher
-HPV1000 SAPD HPV-1000
+POLLS LSPD Cruiser
+POLSF SFPD Cruiser
+POLLV LVPD Cruiser
+POLCS SAPD Rancher
 ENFORCR SAPD Enforcer
-FBITRUK SAPD Raid
-COASTG SAPD Coastguard
+HPV1000 SAPD HPV-1000
+PREDATR SAPD Predator
 POLMAV SAPD Maverick
